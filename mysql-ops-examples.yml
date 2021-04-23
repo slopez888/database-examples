@@ -17,5 +17,5 @@
       name:
         - db_1
         - db_2
-    target: /tmp/dump.sql
+      target: /tmp/dump.sql
 
