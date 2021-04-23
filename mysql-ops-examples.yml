@@ -9,6 +9,7 @@
       name: 
         - db_1
         - db_2
+        - db_3
       state: present
 
   - name: Dump multiple databases
